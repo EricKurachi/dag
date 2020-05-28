@@ -10,7 +10,6 @@ Dispositivo de Alimentação de Gatos (DAG) - It's an Arduino code made to imple
  * José Guilherme Moraes
  * Marcos V. V. T. da Silva
  * Thiago B. Ferreira
- * 
- * 
+ 
  * SALVEM OS GATOS GORDOS!!! 
 */
